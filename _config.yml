@@ -1,12 +1,12 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+theme: minimal
 # Name of your site (displayed in the header)
 name: 와다닥 기술블로그
 
 # Short bio or description (displayed in the header)
-description: 와다닥에서 공부하고 논의 한 내용을 정리해서 
+description: 와다닥에서 공부하고 논의 한 내용을 정리해서
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
